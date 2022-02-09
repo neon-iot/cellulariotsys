@@ -3,11 +3,11 @@
 ## About this module
 ### Introduction – motivation  
 
-  IoT applications and challenges.
+#### IoT applications and challenges.
   
-  IoT proprietary and/or licensed solutions.
+#### IoT proprietary and/or licensed solutions.
   
-OFDM 
+### OFDM 
 
   OFDM system - Discrete model – Spectral efficiency – Characteristics.
   
