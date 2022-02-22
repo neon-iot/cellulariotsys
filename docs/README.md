@@ -4,7 +4,7 @@ This is a graduate course to introduce concepts of the Internet of things based 
 The course includes demonstrative laboratories where students will learn to characterize parameters of the physical layer with the aim to determine the Quality of Service (QoS). These laboratories include velocity and bandwidth test, coverage level, latency and power consumption. 
 
 ## Main topics
-###	Motivations, OFDM synchronization models, 3GPP characteristics.
+####	Motivations, OFDM synchronization models, 3GPP characteristics.
 ###	Narrowband IoT basics, functional layers, idle and connected mode procedures.
 ###	Narrowband IoT uplink and downlink synchronization.
 
