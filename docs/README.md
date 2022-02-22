@@ -5,22 +5,22 @@ The course includes demonstrative laboratories where students will learn to char
 
 ## Main topics
 ####	Motivations, OFDM synchronization models, 3GPP characteristics.
-###	Narrowband IoT basics, functional layers, idle and connected mode procedures.
-###	Narrowband IoT uplink and downlink synchronization.
+####	Narrowband IoT basics, functional layers, idle and connected mode procedures.
+####	Narrowband IoT uplink and downlink synchronization.
 
 ## What you will learn
-###	What the main design technologies associated to IoT: user-centered or service-centered.
-###	OFDM modulation characteristics as a case example of modulation suitable for service-centered IoT.
-###	Functional layer model of 3GPP standard and basic characteristics.
-###	Narrowband IoT layer model with emphasis on physical and medium access layers.
-###	Synchronization aspects of NB-IoT.
+####	What the main design technologies associated to IoT: user-centered or service-centered.
+####	OFDM modulation characteristics as a case example of modulation suitable for service-centered IoT.
+####	Functional layer model of 3GPP standard and basic characteristics.
+####	Narrowband IoT layer model with emphasis on physical and medium access layers.
+####	Synchronization aspects of NB-IoT.
 
 ## What you will need:
-###	Basic courses in digital modulations and data networks are pre-required.
-###	Also, basic knowledge of linear estimation – detection techniques will be helpful.
-###	Matlab is used for testing some aspects of NB-IoT.
+####	Basic courses in digital modulations and data networks are pre-required.
+####	Also, basic knowledge of linear estimation – detection techniques will be helpful.
+####	Matlab is used for testing some aspects of NB-IoT.
 
 ## The material available:
-###	Detail of the 3-module part of the course
-###	Docs: that contain the syllabus and the laboratories description
-###	Slides: that includes a detailed classroom slides
+####	Detail of the 3-module part of the course.
+####	Docs: that contain the syllabus and the laboratories description.
+####	Slides: that includes detailed classroom slides.
