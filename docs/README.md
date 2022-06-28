@@ -9,7 +9,7 @@ The course includes demonstrative laboratories where students will learn to char
 *	Narrowband IoT uplink and downlink synchronization.
 
 ## What you will learn
-*	What the main design technologies associated to IoT: user-centered or service-centered.
+*	Main design technologies associated to IoT: user-centered or service-centered.
 *	OFDM modulation characteristics as a case example of modulation suitable for service-centered IoT.
 *	Functional layer model of 3GPP standard and basic characteristics.
 *	Narrowband IoT layer model with emphasis on physical and medium access layers.
