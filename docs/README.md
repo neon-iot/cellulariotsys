@@ -24,3 +24,5 @@ The course includes demonstrative laboratories where students will learn to char
 *	Detail of the 3-module part of the course.
 *	Docs: that contain the syllabus and the laboratories description.
 *	Slides: that includes detailed classroom slides.
+
+![NEON_logo](https://github.com/neon-iot/cellulariotsys/assets/94380520/cbafad40-0ae8-4329-9ae1-d469abb3be9a)
