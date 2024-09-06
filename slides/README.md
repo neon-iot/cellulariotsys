@@ -1,1 +1,1 @@
-# Slide decks files
+# Slide files
